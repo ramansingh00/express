@@ -6,6 +6,8 @@
 
 ## Table of contents
 
+## Raman Singh
+
 * [Installation](#Installation)
 * [Features](#Features)
 * [Docs & Community](#docs--community)
